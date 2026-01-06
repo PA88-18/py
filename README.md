@@ -1,3 +1,2 @@
-# This Repo lists some basic examples of powershell scripts I've written.
-# Several areas of the scripts have been removed for security purposes.
-# These are all scripts that are regularly being deployed via Ansible
+# This Repo lists some basic examples of python scripts I've written.
+# Several areas of the scripts may have been removed for security purposes.
